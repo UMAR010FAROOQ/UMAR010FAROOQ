@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Umar Farooq 👋
 
-<!--
-**UMAR010FAROOQ/UMAR010FAROOQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer (Django & DRF Specialist)
 
-Here are some ideas to get you started:
+I build scalable REST APIs with clean architecture and production-ready practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python, Django, DRF
+- JWT Authentication
+- PostgreSQL (learning)
+- Docker (learning)
+- CI/CD (GitHub Actions)
+
+## 📌 Featured Project
+👉 DRF Blog API  
+Production-ready API with authentication, testing, and CI/CD
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/umar-farooq-developer
