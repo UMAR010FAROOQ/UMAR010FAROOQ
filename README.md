@@ -7,8 +7,10 @@ I build scalable REST APIs with clean architecture and production-ready practice
 ## 🔧 Tech Stack
 - Python, Django, DRF
 - JWT Authentication
-- PostgreSQL (learning)
-- Docker (learning)
+- PostgreSQL 
+- Docker
+- Testing
+- Api doc (Swagger)
 - CI/CD (GitHub Actions)
 
 ## 📌 Featured Project
