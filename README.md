@@ -40,8 +40,5 @@ I build production-grade REST APIs with clean architecture, multi-tenancy, and r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-farooq-developer)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMAR010FAROOQ&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR010FAROOQ&layout=compact&theme=dark&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UMAR010FAROOQ&color=blue&style=flat)
