@@ -1,28 +1,42 @@
 # Hi, I'm Umar Farooq 👋
 
-🚀 Backend Engineer (Django & DRF Specialist)
+🚀 Backend Engineer — Django & DRF Specialist
 
-I build scalable REST APIs with clean architecture and production-ready practices.
+I build production-grade REST APIs with clean architecture, multi-tenancy, and real-world deployment practices.
+
+---
 
 ## 🔧 Tech Stack
-- Python, Django, DRF
-- JWT Authentication
-- PostgreSQL 
-- Docker
-- Testing
-- Api doc (Swagger)
-- CI/CD (GitHub Actions)
 
-## 📌 Featured Project
-🚀 DRF Blog API  
-A production-ready REST API with JWT authentication, API versioning, testing, and CI/CD pipeline.
+- **Languages:** Python
+- **Frameworks:** Django, Django REST Framework
+- **Auth:** JWT, API Keys
+- **Database:** PostgreSQL
+- **Cache / Queue:** Redis, Celery, Celery Beat
+- **DevOps:** Docker, Docker Compose, GitHub Actions CI/CD
+- **Testing:** Pytest, Factory Boy, Coverage
+- **Docs:** Swagger (drf-spectacular)
 
-✔ Clean architecture (service layer)  
-✔ Nested comments system  
-✔ Optimized queries  
-✔ Swagger API documentation  
+---
+
+## 🏆 Featured Project
+
+### [drf-saas-platform](https://github.com/UMAR010FAROOQ/drf-saas-platform)
+> Production-grade multi-tenant SaaS backend — Django REST Framework
+
+✅ JWT + API Key Authentication  
+✅ Organization-based Multi-Tenancy (RBAC)  
+✅ Subscription & Billing Simulation  
+✅ Feature Flags & Usage Metering  
+✅ Redis + Celery + Docker  
+✅ CI/CD with GitHub Actions  
+
+---
 
 ## 📫 Connect with me
-- LinkedIn: linkedin.com/in/umar-farooq-developer
+
+- LinkedIn: [linkedin.com/in/umar-farooq-developer](https://linkedin.com/in/umar-farooq-developer)
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMAR010FAROOQ&show_icons=true)
