@@ -72,10 +72,9 @@ With hands-on experience in multi-tenant systems, real-time features, payment in
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=UMAR010FAROOQ&show_icons=true&hide_border=true&theme=dark&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR010FAROOQ&layout=compact&hide_border=true&theme=dark&hide=html" height="150"/>
-</p>
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMAR010FAROOQ&show_icons=true&theme=dark&hide_border=true&hide=html&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR010FAROOQ&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript)
 
 ---
 
