@@ -70,12 +70,7 @@ With hands-on experience in multi-tenant systems, real-time features, payment in
 
 ---
 
-## 📊 GitHub Stats
-
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMAR010FAROOQ&show_icons=true&theme=dark&hide_border=true&hide=html&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR010FAROOQ&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript)
-
+![Umar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=UMAR010FAROOQ&theme=dark&hide_border=true)
 ---
 
 ## 🏆 GitHub Trophies
