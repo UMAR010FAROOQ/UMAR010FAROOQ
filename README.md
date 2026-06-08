@@ -75,7 +75,8 @@ With hands-on experience in multi-tenant systems, real-time features, payment in
 
 ## 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=UMAR010FAROOQ
+![trophy](https://github-profile-trophy.vercel.app/?username=UMAR010FAROOQ&theme=darkhub&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=UMAR010FAROOQ)
 
 
 ---
